@@ -1,2 +1,3 @@
 <?php 
-	echo "Hola";
+	$var = 10;
+	echo $var;
