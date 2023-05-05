@@ -1,3 +1,4 @@
 <?php 
 	$var = 10;
-	echo $var;
+	echo "Su variable vale: " . $var;
+	
